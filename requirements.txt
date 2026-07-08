@@ -1,0 +1,12 @@
+numpy
+opencv-python
+matplotlib
+scipy
+tensorboard
+pandas
+thop
+tqdm
+requests
+PyQt6
+PyQt6-WebEngine
+astropy
